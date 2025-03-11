@@ -1,7 +1,7 @@
 <img src= "https://francomontoro.com.br/wp-content/uploads/2022/07/image-1.png">
 
 # PROGRAMÇÃO DE COMPUTADORES II
-Repositório onde se encontra todas as tarefas feitas de programção, utilizando linguagem c++ e afins.
+Repositório onde se encontra todas as tarefas feitas de programação, utilizando linguagem c++ e afins.
 
 Professor Robson Canato.
 
